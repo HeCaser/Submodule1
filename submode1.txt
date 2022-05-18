@@ -1,3 +1,3 @@
 我在 main 分支修改了 submodule1
-ad adf
+在 dev 分支故意制造冲突
 我在 dev 分支修改了代码
